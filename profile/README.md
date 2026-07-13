@@ -1,44 +1,67 @@
 # SandBase AI
 
-**Agent infrastructure for developers building production AI agents.**
+**Production infrastructure for AI agents that need to use real tools safely.**
 
-SandBase focuses on the runtime layer behind agent applications: sandboxed execution, safe tool access, model routing, APIs, and distributed compute for agent workloads.
+SandBase focuses on the runtime layer behind agent applications: sandboxed execution, tool access boundaries, model routing, workflow execution, and operational visibility for teams moving agents beyond demos.
 
-We are building for teams that want agents to move beyond demos and reliably operate against real tools, files, browsers, models, and long-running workflows.
+[Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
-## What we are building
+## Why SandBase
 
-- Sandboxed runtime for agent tool execution
-- Safe access to tools, browsers, shells, and files
-- Model routing for multi-model agent applications
-- APIs for production agent workloads
-- Developer resources for the emerging agent infrastructure ecosystem
+Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
 
-## Links
+That creates a new infrastructure problem:
 
-- [Website](https://www.sandbase.ai)
-- [Docs](https://www.sandbase.ai/docs)
-- [Blog](https://www.sandbase.ai/blog)
-- [Discord](https://discord.com/invite/P6B5Y4e8TX)
-- [X](https://x.com/SandbaseAI)
-- [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
-- [Uneed launch page](https://www.uneed.best/tool/sandbase)
+- where does generated code run?
+- which tools can the agent call?
+- who is the agent acting for?
+- what happens before a sensitive action runs?
+- how do teams observe, replay, and debug agent behavior?
 
-## Open resources
+SandBase is built around those runtime questions.
 
-- [Awesome Agent Runtime](https://github.com/sandbaseai/awesome-agent-runtime) — a curated landscape of agent runtimes, sandboxes, browser agents, tool protocols, memory layers, observability, and compute platforms.
-- [Agent Sandbox Cookbook](https://github.com/sandbaseai/agent-sandbox-cookbook) — practical patterns for sandboxed tool execution and safer agent workflows.
-- [Global AI Cold Start](https://github.com/sandbaseai/global-ai-cold-start) — a build-in-public playbook for taking an AI infra project to overseas builders.
-- [Zero-to-One AI Infra Growth](https://github.com/sandbaseai/zero-to-one-ai-infra-growth) — the 30-day growth diary behind SandBase's early SEO, community, and distribution work.
+## What We Build
 
-## Builder Focus
+| Area | Focus |
+| --- | --- |
+| Agent runtime | Execution boundaries for production AI agents |
+| Sandboxed execution | Safer code, shell, file, and browser actions |
+| Tool access | MCP-style tool integration and action control |
+| Model infrastructure | Multi-model access and routing for agent workloads |
+| Observability | Logs, status, and operational surfaces for agent runs |
+| Open resources | Ecosystem maps, cookbooks, and growth playbooks for builders |
 
-We are especially interested in projects around:
+## Featured Projects
 
-- Agent runtime and execution boundaries
-- Browser, shell, file, and computer-use agents
-- MCP, tool protocols, and action schemas
-- Sandboxed compute and distributed execution
-- Evals, tracing, replay, and observability for agent runs
+| Project | What it is for |
+| --- | --- |
+| [managed-agents](https://github.com/sandbaseai/managed-agents) | Managed agent patterns, examples, and runtime ideas for teams moving from local prototypes to production agent operations. |
+| [awesome-native-agent-platforms](https://github.com/sandbaseai/awesome-native-agent-platforms) | A curated map of native agent platforms, runtimes, tool systems, workflow engines, and infrastructure projects. |
+| [sandbase-lab-sitecheck](https://github.com/sandbaseai/sandbase-lab-sitecheck) | A practical lab project for website, SEO, and launch-surface checks around AI products and developer tools. |
+| [awesome-agent-runtime](https://github.com/sandbaseai/awesome-agent-runtime) | A curated landscape of agent runtimes, sandboxes, browser agents, MCP/tool protocols, memory layers, observability, and compute platforms. |
+| [agent-sandbox-cookbook](https://github.com/sandbaseai/agent-sandbox-cookbook) | Practical patterns for sandboxed tool execution, safer agent workflows, and production runtime boundaries. |
+| [global-ai-cold-start](https://github.com/sandbaseai/global-ai-cold-start) | A public 30-day playbook for taking an AI infrastructure project from zero to discoverable across search, social, and developer communities. |
 
-If you are building in this direction, join the Discord or follow the public resources above.
+## Start Here
+
+- New to agent infrastructure? Read the [SandBase blog](https://www.sandbase.ai/blog).
+- Comparing native agent platforms and runtimes? Start with [Awesome Native Agent Platforms](https://github.com/sandbaseai/awesome-native-agent-platforms).
+- Mapping the broader runtime ecosystem? Browse [Awesome Agent Runtime](https://github.com/sandbaseai/awesome-agent-runtime).
+- Exploring production agent operations? Browse [Managed Agents](https://github.com/sandbaseai/managed-agents).
+- Building agents that run code or call tools? Read the [Agent Sandbox Cookbook](https://github.com/sandbaseai/agent-sandbox-cookbook).
+- Checking public launch and SEO surfaces? Try [SandBase Lab Sitecheck](https://github.com/sandbaseai/sandbase-lab-sitecheck).
+- Following SandBase updates? Join [Discord](https://discord.com/invite/P6B5Y4e8TX) or follow [@SandbaseAI](https://x.com/SandbaseAI).
+
+## Builder Topics
+
+We care about infrastructure that helps agents act safely and reliably:
+
+- agent runtime and execution boundaries
+- MCP servers, tool protocols, and action schemas
+- sandboxed compute for code, shell, browser, and file operations
+- model gateways and multi-model routing
+- evals, tracing, replay, and observability
+- authorization, approvals, and pre-action policy checks
+- long-running workflows and distributed execution for agents
+
+If you are building in this direction, we would love to learn from you.
