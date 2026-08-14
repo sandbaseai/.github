@@ -35,6 +35,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 
 | Project | What it is for |
 | --- | --- |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | One-command MCP onboarding for Cursor, Claude Code, Codex, Windsurf, Gemini CLI, OpenCode, and other agents, with access to 2,000+ tools and 200+ AI models. |
 | [managed-agents](https://github.com/sandbaseai/managed-agents) | Open-source, local-first managed-agent runtime with a Console, Claude Managed Agents-style resource APIs, skills, files, credential vaults, memory stores, environments, and resumable session events. |
 | [awesome-native-agent-platforms](https://github.com/sandbaseai/awesome-native-agent-platforms) | A curated list of infrastructure, runtimes, sandboxes, browsers, model routers, and protocols for building production AI agents. |
 | [sandbase-lab-sitecheck](https://github.com/sandbaseai/sandbase-lab-sitecheck) | "Can AI Get It?", a SandBase-powered website AI personality test where an agent visits a site, scores it, writes feedback, assigns personality tags, and generates a shareable card. |
@@ -44,6 +45,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 
 ## Start Here
 
+- Want to connect your coding agent to tools and models? Install [SandBase CLI](https://github.com/sandbaseai/cli).
 - New to agent infrastructure? Read the [SandBase blog](https://www.sandbase.ai/blog).
 - Comparing native agent platforms and runtimes? Start with [Awesome Native Agent Platforms](https://github.com/sandbaseai/awesome-native-agent-platforms).
 - Mapping the broader runtime ecosystem? Browse [Awesome Agent Runtime](https://github.com/sandbaseai/awesome-agent-runtime).
