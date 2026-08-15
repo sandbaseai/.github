@@ -6,7 +6,7 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
-📣 **Latest open-source update:** [SandBase Harness v0.3.1 and 88 installable Agent Skills](https://github.com/sandbaseai/.github/discussions/4)
+📣 **Latest open-source update:** [SandBase Harness v0.3.2 and 88 installable Agent Skills](https://github.com/sandbaseai/.github/discussions/4)
 
 ## Why SandBase
 
@@ -37,8 +37,8 @@ SandBase is built around those runtime questions. The open-source path starts wi
 
 | Project | What it is for |
 | --- | --- |
-| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime with sandboxed execution, MCP integration, approvals, event streams, replay, and DeepSeek V4 support. |
-| [SandBase Skills](https://github.com/sandbaseai/sandbase-skills) | 88 installable Agent Skills for research, social intelligence, marketing, and business workflows across Codex, Claude Code, Cursor, and Gemini CLI. |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime with sandboxed execution, MCP integration, approvals, event streams, replay, DeepSeek V4 support, and a containerized MCP bridge. |
+| [SandBase Skills](https://github.com/sandbaseai/sandbase-skills) | 88 installable Agent Skills across Codex, Claude Code, Cursor, and Gemini CLI; the flagship multi-source research workflow runs with host search tools and no SandBase account. |
 | [SandBase CLI](https://github.com/sandbaseai/cli) | One-command MCP onboarding for Cursor, Claude Code, Codex, Windsurf, Gemini CLI, OpenCode, and other agents, with access to 2,000+ tools and 200+ AI models. |
 | [managed-agents](https://github.com/sandbaseai/managed-agents) | Open-source, local-first managed-agent runtime with a Console, Claude Managed Agents-style resource APIs, skills, files, credential vaults, memory stores, environments, and resumable session events. |
 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | Independent, agent-first field guide to DeepSeek Harness with source-backed quickstarts, architecture maps, safety boundaries, runnable examples, troubleshooting, and multilingual navigation. |
@@ -51,7 +51,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 ## Start Here
 
 - Building a local-first agent runtime? Start with [SandBase Harness](https://github.com/sandbaseai/sandbase-harness).
-- Adding research and business workflows to your agent? Browse [SandBase Skills](https://github.com/sandbaseai/sandbase-skills).
+- Adding research workflows to your agent? Install the no-account [`multi-source-search`](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) Skill or browse all [SandBase Skills](https://github.com/sandbaseai/sandbase-skills).
 - Want to connect your coding agent to tools and models? Install [SandBase CLI](https://github.com/sandbaseai/cli).
 - New to agent infrastructure? Read the [SandBase blog](https://www.sandbase.ai/blog).
 - Comparing native agent platforms and runtimes? Start with [Awesome Native Agent Platforms](https://github.com/sandbaseai/awesome-native-agent-platforms).
