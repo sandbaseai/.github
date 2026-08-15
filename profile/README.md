@@ -6,6 +6,8 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
+📣 **Latest open-source update:** [SandBase Harness v0.3.1 and 88 installable Agent Skills](https://github.com/sandbaseai/.github/discussions/4)
+
 ## Why SandBase
 
 Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
