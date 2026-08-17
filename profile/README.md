@@ -8,6 +8,20 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 📣 **Latest open-source update:** [SandBase Harness v0.3.2 and 88 installable Agent Skills](https://github.com/sandbaseai/.github/discussions/4)
 
+### Try it in DeepSeek Harness
+
+Add the portable, no-account research Skill to any DSH project directly from
+GitHub source:
+
+```bash
+npx --yes github:sandbaseai/sandbase-skills add multi-source-search
+dsh web
+```
+
+Need durable managed-agent sessions as native DSH MCP tools? See the
+[official DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918)
+and the [verified v0.3.2 integration guide](https://github.com/sandbaseai/sandbase-harness/tree/v0.3.2/examples/deepseek-harness).
+
 ## Why SandBase
 
 Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
