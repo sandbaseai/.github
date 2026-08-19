@@ -6,7 +6,7 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
-📣 **Latest open-source update:** [SandBase Harness v0.3.2 and 88 installable Agent Skills](https://github.com/sandbaseai/.github/discussions/4)
+📣 **Latest open-source update:** [One-command access to 2,000+ AI models for coding agents](https://github.com/sandbaseai/.github/discussions/9)
 
 ### Try it in DeepSeek Harness
 
