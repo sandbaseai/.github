@@ -61,6 +61,18 @@ Restart DSH Web, open **Settings**, and select **Store**.
 [Try Preview 2](https://github.com/sandbaseai/dsh-plugin-store/releases/tag/v0.1.0-preview.2) ·
 [Star DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store)
 
+### Operate DeepSeek Harness from evidence
+
+When a DSH install, Session, tool call, sandbox, or plugin fails, use the
+independent **DeepSeek Harness Handbook** to find the first broken boundary.
+It currently provides 80 English-canonical, source-backed guides plus local
+browser tools that do not upload diagnostic input.
+
+[Run Install Doctor](https://sandbaseai.github.io/deepseek-harness-handbook/install-doctor.html) ·
+[Route a failure](https://sandbaseai.github.io/deepseek-harness-handbook/diagnose.html) ·
+[Browse all guides](https://github.com/sandbaseai/deepseek-harness-handbook#start-with-your-goal) ·
+[Star the Handbook](https://github.com/sandbaseai/deepseek-harness-handbook)
+
 ## Why SandBase
 
 Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
