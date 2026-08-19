@@ -40,6 +40,12 @@ DSH MCP tools? See [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandb
 [official MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness),
 and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918).
 
+[Explore Harness](https://github.com/sandbaseai/sandbase-harness#readme) ·
+[Independent self-hosting guide](https://www.ssdnodes.com/learn/self-host-sandbase-agent-runtime) ·
+[Star Harness](https://github.com/sandbaseai/sandbase-harness) ·
+[Browse Skills](https://github.com/sandbaseai/sandbase-skills#readme) ·
+[Star Skills](https://github.com/sandbaseai/sandbase-skills)
+
 ## Why SandBase
 
 Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
