@@ -14,7 +14,7 @@ SandBase CLI detects your installed clients and configures the MCP bridge for
 Codex, Claude Code, Cursor, Windsurf, Gemini CLI, OpenCode, and more:
 
 ```bash
-npx -y @sandbaseai/cli connect
+npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz connect
 ```
 
 Preview all 25 supported client targets without signing in or changing files:
