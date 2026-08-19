@@ -8,6 +8,23 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 📣 **Latest open-source update:** [One-command access to 2,000+ AI models for coding agents](https://github.com/sandbaseai/.github/discussions/9)
 
+### Connect your coding agent
+
+SandBase CLI detects your installed clients and configures the MCP bridge for
+Codex, Claude Code, Cursor, Windsurf, Gemini CLI, OpenCode, and more:
+
+```bash
+npx -y @sandbaseai/cli connect
+```
+
+Preview all 25 supported client targets without signing in or changing files:
+
+```bash
+npx -y @sandbaseai/cli catalog --json
+```
+
+[Source](https://github.com/sandbaseai/cli) · [v0.1.17 release](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) · [Report an issue](https://github.com/sandbaseai/cli/issues/new/choose) · [Star SandBase CLI](https://github.com/sandbaseai/cli)
+
 ### Try it in DeepSeek Harness
 
 Add the portable, no-account research Skill to any DSH project directly from
