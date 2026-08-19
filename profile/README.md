@@ -46,6 +46,21 @@ and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harn
 [Browse Skills](https://github.com/sandbaseai/sandbase-skills#readme) ·
 [Star Skills](https://github.com/sandbaseai/sandbase-skills)
 
+### Discover DSH plugins
+
+Browse more than 2,900 community plugins from a native Store inside DeepSeek Harness:
+
+```bash
+dsh plugin --profile web add github:sandbaseai/dsh-plugin-store
+```
+
+Restart DSH Web, open **Settings**, and select **Store**.
+
+[Open the project site](https://sandbaseai.github.io/dsh-plugin-store/) ·
+[View source](https://github.com/sandbaseai/dsh-plugin-store) ·
+[Try Preview 2](https://github.com/sandbaseai/dsh-plugin-store/releases/tag/v0.1.0-preview.2) ·
+[Star DSH Plugin Store](https://github.com/sandbaseai/dsh-plugin-store)
+
 ## Why SandBase
 
 Modern agents are no longer just chat interfaces. They call tools, run code, inspect files, browse the web, trigger workflows, and act on behalf of users.
