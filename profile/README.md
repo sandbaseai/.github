@@ -42,6 +42,7 @@ and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harn
 
 [Explore Harness](https://github.com/sandbaseai/sandbase-harness#readme) ·
 [Independent self-hosting guide](https://www.ssdnodes.com/learn/self-host-sandbase-agent-runtime) ·
+[Build an auditable research agent](https://blog.sandbase.ai/auditable-research-agent-evidence-ledger-sandbox-replay/) ·
 [Star Harness](https://github.com/sandbaseai/sandbase-harness) ·
 [Browse Skills](https://github.com/sandbaseai/sandbase-skills#readme) ·
 [Star Skills](https://github.com/sandbaseai/sandbase-skills)
