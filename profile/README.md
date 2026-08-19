@@ -6,7 +6,7 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
-📣 **Latest open-source update:** [One-command access to 2,000+ AI models for coding agents](https://github.com/sandbaseai/.github/discussions/9)
+📣 **Latest open-source update:** [One-command access to 2,000+ AI models for coding agents](https://github.com/sandbaseai/.github/discussions/9) · [Read the 25-client MCP setup guide](https://blog.sandbase.ai/sandbase-cli-mcp-bridge-25-ai-clients/)
 
 ### Connect your coding agent
 
