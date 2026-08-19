@@ -6,7 +6,7 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
-📣 **Latest open-source update:** [One-command access to 2,000+ AI models for coding agents](https://github.com/sandbaseai/.github/discussions/9) · [Read the 25-client MCP setup guide](https://blog.sandbase.ai/sandbase-cli-mcp-bridge-25-ai-clients/)
+📣 **Latest open-source updates:** [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.4) is active in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness) · [SandBase Skills v0.3.4](https://github.com/sandbaseai/sandbase-skills/releases/tag/v0.3.4) ships 88 installable Skills as a native DeepSeek Harness bundle
 
 ### Connect your coding agent
 
@@ -27,17 +27,18 @@ npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cl
 
 ### Try it in DeepSeek Harness
 
-Add the portable, no-account research Skill to any DSH project directly from
-GitHub source:
+Install all 88 Skills as a native DSH bundle directly from GitHub source:
 
 ```bash
-npx --yes github:sandbaseai/sandbase-skills add multi-source-search
+dsh plugin --profile web add github:sandbaseai/sandbase-skills
 dsh web
 ```
 
-Need durable managed-agent sessions as native DSH MCP tools? See the
-[official DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918)
-and the [verified v0.3.2 integration guide](https://github.com/sandbaseai/sandbase-harness/tree/v0.3.2/examples/deepseek-harness).
+The flagship `multi-source-search` Skill works with host-provided search tools
+and needs no SandBase account. Need durable managed-agent sessions as native
+DSH MCP tools? See [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandbase-harness/tree/v0.3.4#deepseek-harness), its
+[official MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness),
+and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918).
 
 ## Why SandBase
 
