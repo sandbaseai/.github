@@ -41,6 +41,7 @@ DSH MCP tools? See [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandb
 and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918).
 
 [Explore Harness](https://github.com/sandbaseai/sandbase-harness#readme) ·
+[DSH runtime plugin guide](https://blog.sandbase.ai/deepseek-harness-developer-preview-2026/#add-a-real-third-party-runtime-plugin) ·
 [Independent self-hosting guide](https://www.ssdnodes.com/learn/self-host-sandbase-agent-runtime) ·
 [Build an auditable research agent](https://blog.sandbase.ai/auditable-research-agent-evidence-ledger-sandbox-replay/) ·
 [Star Harness](https://github.com/sandbaseai/sandbase-harness) ·
@@ -124,7 +125,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 - Comparing native agent platforms and runtimes? Start with [Awesome Native Agent Platforms](https://github.com/sandbaseai/awesome-native-agent-platforms).
 - Mapping the broader runtime ecosystem? Browse [Awesome Agent Runtime](https://github.com/sandbaseai/awesome-agent-runtime).
 - Exploring local-first enterprise agent runtime? Browse [Managed Agents](https://github.com/sandbaseai/managed-agents).
-- Building with DeepSeek Harness? Use the [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) for operator guides, architecture, and troubleshooting.
+- Building with DeepSeek Harness? Start with the [runtime plugin walkthrough](https://blog.sandbase.ai/deepseek-harness-developer-preview-2026/#add-a-real-third-party-runtime-plugin), then use the [DeepSeek Harness Handbook](https://github.com/sandbaseai/deepseek-harness-handbook) for operator guides, architecture, and troubleshooting.
 - Building agents that run code or call tools? Read the [Agent Sandbox Cookbook](https://github.com/sandbaseai/agent-sandbox-cookbook).
 - Want to see an agent judge a website? Try [SandBase Lab Sitecheck](https://github.com/sandbaseai/sandbase-lab-sitecheck).
 - Following SandBase updates? Join [Discord](https://discord.com/invite/P6B5Y4e8TX) or follow [@SandbaseAI](https://x.com/SandbaseAI).
