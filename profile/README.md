@@ -6,6 +6,14 @@ SandBase helps teams move agents from demos to production with runtime infrastru
 
 [Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
 
+## Connect 25 AI clients to 2,000+ models
+
+[![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli)
+[![Latest release](https://img.shields.io/github/v/release/sandbaseai/cli)](https://github.com/sandbaseai/cli/releases/latest)
+[![License](https://img.shields.io/github/license/sandbaseai/cli)](https://github.com/sandbaseai/cli/blob/main/LICENSE)
+
+Use the open-source [SandBase CLI](https://github.com/sandbaseai/cli) to connect Codex, Claude Code, Cursor, Windsurf, Gemini CLI, OpenCode, and other AI clients to one MCP bridge. [Star the project](https://github.com/sandbaseai/cli) or [install the latest release](https://github.com/sandbaseai/cli/releases/latest).
+
 📣 **Latest open-source updates:** [SandBase CLI v0.1.17](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) connects 25 AI client targets to 2,000+ models and APIs · [DSH Plugin Store v0.1.0 Preview 5](https://github.com/sandbaseai/dsh-plugin-store/releases/tag/v0.1.0-preview.5) installs runtime-verified plugins into a local DeepSeek Harness Web profile · [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.4) is active in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness) · [SandBase Skills v0.3.4](https://github.com/sandbaseai/sandbase-skills/releases/tag/v0.3.4) ships 88 installable Skills as a native DeepSeek Harness bundle
 
 ### Connect your coding agent
