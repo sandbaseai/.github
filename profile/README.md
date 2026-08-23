@@ -1,10 +1,21 @@
 # SandBase AI
 
-**The safe runtime layer for enterprise AI agents.**
+**One API for LLMs, image generation, video generation, tools, and production AI agents.**
 
-SandBase helps teams move agents from demos to production with runtime infrastructure for sessions, tools, approvals, sandboxed execution, memory, audit trails, replay, and operational visibility.
+SandBase gives developers one API key and one interface for 2,000+ AI models and 2,000+ APIs, plus runtime infrastructure for sessions, tools, approvals, sandboxed execution, memory, audit trails, replay, and operational visibility.
 
-[Website](https://www.sandbase.ai) · [Docs](https://www.sandbase.ai/docs) · [Blog](https://www.sandbase.ai/blog) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
+[Website](https://www.sandbase.ai) · [API Docs](https://www.sandbase.ai/docs/getting-started/) · [Models & APIs](https://www.sandbase.ai/docs/store/) · [Blog](https://blog.sandbase.ai) · [Discord](https://discord.com/invite/P6B5Y4e8TX) · [X](https://x.com/SandbaseAI) · [LinkedIn](https://www.linkedin.com/company/sandbaseai/)
+
+## One API for LLM, Image, and Video Generation
+
+Use SandBase as a unified AI API instead of integrating and maintaining a separate provider for every modality:
+
+- **LLM API:** call chat, reasoning, coding, and embedding models through a unified interface, including an OpenAI-compatible endpoint.
+- **Image API:** generate and edit images with models such as Flux through a consistent job API.
+- **Video API:** run video generation models such as Kling with asynchronous jobs and production-ready status handling.
+- **Tools and data APIs:** add web search, scraping, social, business, finance, and other real-world capabilities with the same SandBase account.
+
+[Get an API key](https://sandbase.ai/console/keys) · [Read the API reference](https://www.sandbase.ai/docs/api-reference/) · [Browse models and APIs](https://www.sandbase.ai/docs/store/) · [Compare unified AI API platforms](https://blog.sandbase.ai/unified-ai-api-llm-image-video-2026/)
 
 ## Connect 25 AI clients to 2,000+ models
 
