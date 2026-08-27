@@ -44,7 +44,7 @@ npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cl
 
 [Source](https://github.com/sandbaseai/cli) · [v0.1.17 release](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) · [Report an issue](https://github.com/sandbaseai/cli/issues/new/choose) · [Star SandBase CLI](https://github.com/sandbaseai/cli)
 
-Independent discovery: [TensorBlock MCP Index](https://tensorblock.co/mcp/servers/github-sandbaseai-cli-c4e113db) · [SkillsCat](https://skills.cat/skills/sandbaseai/cli/sandbase)
+Independent discovery: [Awesome Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#development-tools--utilities) · [Awesome AI API Proxy](https://github.com/howardpen9/awesome-ai-api-proxy#global-gateways--aggregators) · [TensorBlock MCP Index](https://tensorblock.co/mcp/servers/github-sandbaseai-cli-c4e113db) · [SkillsCat](https://skills.cat/skills/sandbaseai/cli/sandbase)
 
 ### Try it in DeepSeek Harness
 
