@@ -17,7 +17,7 @@ Use SandBase as a unified AI API instead of integrating and maintaining a separa
 
 [Get an API key](https://sandbase.ai/console/keys) · [Read the API reference](https://www.sandbase.ai/docs/api-reference/) · [Browse models and APIs](https://www.sandbase.ai/docs/store/) · [Compare unified AI API platforms](https://blog.sandbase.ai/unified-ai-api-llm-image-video-2026/)
 
-## Connect 25 AI clients to 2,000+ models
+## Connect 25 AI clients to 2,000+ models and APIs
 
 [![GitHub stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social)](https://github.com/sandbaseai/cli)
 [![Latest release](https://img.shields.io/github/v/release/sandbaseai/cli)](https://github.com/sandbaseai/cli/releases/latest)
@@ -130,7 +130,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 | --- | --- |
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime with sandboxed execution, MCP integration, approvals, event streams, replay, DeepSeek V4 support, and a containerized MCP bridge. |
 | [SandBase Skills](https://github.com/sandbaseai/sandbase-skills) | 88 installable Agent Skills across Codex, Claude Code, Cursor, and Gemini CLI; the flagship multi-source research workflow runs with host search tools and no SandBase account. |
-| [SandBase CLI](https://github.com/sandbaseai/cli) | One-command MCP onboarding for Cursor, Claude Code, Codex, Windsurf, Gemini CLI, OpenCode, and other agents, with access to 2,000+ AI models. |
+| [SandBase CLI](https://github.com/sandbaseai/cli) | One-command MCP onboarding for Cursor, Claude Code, Codex, Windsurf, Gemini CLI, OpenCode, and other agents, with access to 2,000+ AI models and APIs. |
 | [SandBase for Codex](https://github.com/sandbaseai/sandbase-codex-plugin) | Official Codex plugin packaging for the SandBase MCP bridge and guided Agent Skill, with a pinned security-scanner workflow. |
 | [managed-agents](https://github.com/sandbaseai/managed-agents) | Open-source, local-first managed-agent runtime with a Console, Claude Managed Agents-style resource APIs, skills, files, credential vaults, memory stores, environments, and resumable session events. |
 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | Independent, agent-first field guide to DeepSeek Harness with source-backed quickstarts, architecture maps, safety boundaries, runnable examples, troubleshooting, and multilingual navigation. |
