@@ -133,6 +133,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 | [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript agent runtime with sandboxed execution, MCP integration, approvals, event streams, replay, DeepSeek V4 support, and a containerized MCP bridge. |
 | [SandBase Skills](https://github.com/sandbaseai/sandbase-skills) | 88 installable Agent Skills across Codex, Claude Code, Cursor, and Gemini CLI; the flagship multi-source research workflow runs with host search tools and no SandBase account. |
 | [SandBase CLI](https://github.com/sandbaseai/cli) | One-command MCP onboarding for Cursor, Claude Code, Codex, Windsurf, Gemini CLI, OpenCode, and other agents, with access to 2,000+ AI models and APIs. |
+| [SandBase Docs](https://github.com/sandbaseai/sandbase-docs) | Official developer documentation for one API covering LLMs, image, video, audio, embeddings, real-world APIs, and reusable Agents. |
 | [SandBase for Codex](https://github.com/sandbaseai/sandbase-codex-plugin) | Official Codex plugin packaging for the SandBase MCP bridge and guided Agent Skill, with a pinned security-scanner workflow. |
 | [managed-agents](https://github.com/sandbaseai/managed-agents) | Open-source, local-first managed-agent runtime with a Console, Claude Managed Agents-style resource APIs, skills, files, credential vaults, memory stores, environments, and resumable session events. |
 | [deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook) | Independent, agent-first field guide to DeepSeek Harness with source-backed quickstarts, architecture maps, safety boundaries, runnable examples, troubleshooting, and multilingual navigation. |
@@ -148,6 +149,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 - Building a local-first agent runtime? Start with [SandBase Harness](https://github.com/sandbaseai/sandbase-harness).
 - Adding research workflows to your agent? Install the no-account [`multi-source-search`](https://github.com/sandbaseai/sandbase-skills/tree/main/research/multi-source-search) Skill or browse all [SandBase Skills](https://github.com/sandbaseai/sandbase-skills).
 - Want to connect your coding agent to tools and models? Install [SandBase CLI](https://github.com/sandbaseai/cli).
+- Integrating the SandBase API? Start with the [official developer docs](https://github.com/sandbaseai/sandbase-docs) or the [hosted API guide](https://www.sandbase.ai/docs/getting-started/).
 - New to agent infrastructure? Read the [SandBase blog](https://www.sandbase.ai/blog).
 - Comparing native agent platforms and runtimes? Start with [Awesome Native Agent Platforms](https://github.com/sandbaseai/awesome-native-agent-platforms).
 - Mapping the broader runtime ecosystem? Browse [Awesome Agent Runtime](https://github.com/sandbaseai/awesome-agent-runtime).
