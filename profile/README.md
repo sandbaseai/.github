@@ -93,7 +93,7 @@ Restart DSH Web, open **Settings**, and select **Store**.
 
 When a DSH install, Session, tool call, sandbox, or plugin fails, use the
 independent **DeepSeek Harness Handbook** to find the first broken boundary.
-It currently provides 80 English-canonical, source-backed guides plus local
+It currently provides 143 English-canonical, source-backed guides plus local
 browser tools that do not upload diagnostic input.
 
 [Run Install Doctor](https://sandbaseai.github.io/deepseek-harness-handbook/install-doctor.html) ·
