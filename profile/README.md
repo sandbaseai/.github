@@ -33,6 +33,13 @@ SandBase CLI detects your installed clients and configures the MCP bridge for
 Codex, Claude Code, Cursor, Windsurf, Gemini CLI, OpenCode, and more:
 
 ```bash
+brew install sandbaseai/tap/sandbaseai-cli
+sandbase connect
+```
+
+Or run the immutable release directly:
+
+```bash
 npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz connect
 ```
 
@@ -42,7 +49,7 @@ Preview all 25 supported client targets without signing in or changing files:
 npx -y https://github.com/sandbaseai/cli/releases/download/v0.1.17/sandbaseai-cli-0.1.17.tgz catalog --json
 ```
 
-[Source](https://github.com/sandbaseai/cli) · [v0.1.17 release](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) · [Report an issue](https://github.com/sandbaseai/cli/issues/new/choose) · [Star SandBase CLI](https://github.com/sandbaseai/cli)
+[Source](https://github.com/sandbaseai/cli) · [Homebrew](https://github.com/sandbaseai/homebrew-tap) · [v0.1.17 release](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) · [Report an issue](https://github.com/sandbaseai/cli/issues/new/choose) · [Star SandBase CLI](https://github.com/sandbaseai/cli)
 
 Codex users can also inspect the [official SandBase Codex plugin](https://github.com/sandbaseai/sandbase-codex-plugin), which packages the same immutable-release MCP bridge with a guided Agent Skill and required security-scanner CI.
 
