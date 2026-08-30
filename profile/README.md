@@ -25,7 +25,7 @@ Use SandBase as a unified AI API instead of integrating and maintaining a separa
 
 Use the open-source [SandBase CLI](https://github.com/sandbaseai/cli) to connect Codex, Claude Code, Cursor, Windsurf, Gemini CLI, OpenCode, and other AI clients to one MCP bridge. [Star the project](https://github.com/sandbaseai/cli) or [install the latest release](https://github.com/sandbaseai/cli/releases/latest).
 
-📣 **Latest open-source updates:** [DeepSeek Harness Handbook v0.5.255](https://github.com/sandbaseai/deepseek-harness-handbook/releases/tag/v0.5.255) now covers 157 English-canonical guides, including Agent GitFlow guardrails, text-model vision fallback, concurrent `DSH_HOME` session safety, and context-compression profiles · [SandBase CLI v0.1.17](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) connects 25 AI client targets to 2,000+ models and APIs · [DSH Plugin Store v0.1.0 Preview 5](https://github.com/sandbaseai/dsh-plugin-store/releases/tag/v0.1.0-preview.5) installs runtime-verified plugins into a local DeepSeek Harness Web profile · [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.4) is active in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness) · [SandBase Skills v0.3.4](https://github.com/sandbaseai/sandbase-skills/releases/tag/v0.3.4) ships 88 installable Skills as a native DeepSeek Harness bundle
+📣 **Latest open-source updates:** [DeepSeek Harness Handbook v0.5.255](https://github.com/sandbaseai/deepseek-harness-handbook/releases/tag/v0.5.255) now covers 157 English-canonical guides, including Agent GitFlow guardrails, text-model vision fallback, concurrent `DSH_HOME` session safety, and context-compression profiles · [SandBase CLI v0.1.17](https://github.com/sandbaseai/cli/releases/tag/v0.1.17) connects 25 AI client targets to 2,000+ models and APIs · [DSH Plugin Store v0.1.0 Preview 5](https://github.com/sandbaseai/dsh-plugin-store/releases/tag/v0.1.0-preview.5) installs runtime-verified plugins into a local DeepSeek Harness Web profile · [SandBase Harness v0.3.8](https://github.com/sandbaseai/sandbase-harness/releases/tag/v0.3.8) is active in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness) · [SandBase Skills v0.3.4](https://github.com/sandbaseai/sandbase-skills/releases/tag/v0.3.4) ships 88 installable Skills as a native DeepSeek Harness bundle
 
 ### Connect your coding agent
 
@@ -70,7 +70,7 @@ dsh web
 
 The flagship `multi-source-search` Skill works with host-provided search tools
 and needs no SandBase account. Need durable managed-agent sessions as native
-DSH MCP tools? See [SandBase Harness v0.3.4](https://github.com/sandbaseai/sandbase-harness/tree/v0.3.4#deepseek-harness), its
+DSH MCP tools? See [SandBase Harness v0.3.8](https://github.com/sandbaseai/sandbase-harness/tree/v0.3.8#deepseek-harness), its
 [official MCP Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers?search=io.github.sandbaseai%2Fsandbase-harness),
 and the [DeepSeek Harness showcase](https://github.com/deepseek-ai/deepseek-harness/discussions/1918).
 
