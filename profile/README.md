@@ -59,6 +59,8 @@ Practical walkthroughs: [Claude Code and Codex workflow](https://github.com/sand
 
 Documentation: [English](https://github.com/sandbaseai/cli/blob/main/README.md) · [简体中文](https://github.com/sandbaseai/cli/blob/main/README.zh-CN.md) · [日本語](https://github.com/sandbaseai/cli/blob/main/README.ja.md) · [한국어](https://github.com/sandbaseai/cli/blob/main/README.ko.md) · [Español](https://github.com/sandbaseai/cli/blob/main/README.es.md) · [Français](https://github.com/sandbaseai/cli/blob/main/README.fr.md) · [Deutsch](https://github.com/sandbaseai/cli/blob/main/README.de.md) · [Português do Brasil](https://github.com/sandbaseai/cli/blob/main/README.pt-BR.md)
 
+Additional Harness discovery: [DSH Plugin Directory](https://dshplugin.app/plugins/sandbase-harness) · [DSH Plugin Hub](https://dshpluginhub.dev/en/plugins/sandbaseai/sandbase-harness) · [MCP Repository](https://mcprepository.com/sandbaseai/sandbase-harness)
+
 ### Try it in DeepSeek Harness
 
 Install all 88 Skills as a native DSH bundle directly from GitHub source:
