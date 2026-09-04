@@ -154,6 +154,7 @@ SandBase is built around those runtime questions. The open-source path starts wi
 | [awesome-native-agent-platforms](https://github.com/sandbaseai/awesome-native-agent-platforms) | A curated list of infrastructure, runtimes, sandboxes, browsers, model routers, and protocols for building production AI agents. |
 | [sandbase-lab-sitecheck](https://github.com/sandbaseai/sandbase-lab-sitecheck) | "Can AI Get It?", a SandBase-powered website AI personality test where an agent visits a site, scores it, writes feedback, assigns personality tags, and generates a shareable card. |
 | [awesome-agent-runtime](https://github.com/sandbaseai/awesome-agent-runtime) | A 500-project landscape of agent runtimes, sandboxes, browser agents, MCP/tool protocols, memory layers, observability, and compute platforms. |
+| [awesome-workbuddy](https://github.com/sandbaseai/awesome-workbuddy) | Curated Tencent WorkBuddy resources, active ecosystem metrics, weekly discoveries, security guidance, and installable audit Skills. |
 | [agent-sandbox-cookbook](https://github.com/sandbaseai/agent-sandbox-cookbook) | Examples, compatibility checks, and field notes for running AI agent tools across sandboxed runtimes. |
 | [global-ai-cold-start](https://github.com/sandbaseai/global-ai-cold-start) | A public case study on turning SandBase.ai from an invisible early AI infrastructure product into a searchable, developer-facing trust surface. |
 
